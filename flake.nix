@@ -73,6 +73,7 @@
             esp-generate
             esp-config
             espflash # probe-rs doesn't work on the ESP32-C3 Super Mini that I have
+            gcc
           ];
 
           commands = [
