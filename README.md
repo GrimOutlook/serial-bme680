@@ -17,3 +17,6 @@ Sense.
 Instructions on getting the initial setup to flash the microcontroller came
 almost entirely from [this blogpost](https://www.pavelp.cz/posts/eng-nrf52840-rust/)
 
+### ESP32-C3 Super Mini Pinout
+![pinout](https://mischianti.org/wp-content/uploads/2025/07/ESP32-C3-Super-Mini-pinout-low.jpg.webp)
+
